@@ -1,0 +1,5 @@
+D:\heasp mekanisi\odev1.exe
+D:\heasp mekanisi\odev1.dll
+D:\heasp mekanisi\odev1.deps.json
+D:\heasp mekanisi\odev1.runtimeconfig.json
+D:\heasp mekanisi\odev1.pdb
